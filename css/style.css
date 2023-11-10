@@ -32,7 +32,7 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-.menu-items{
+.menu-link{
    background-color: #FFFFFF;
 }
 .menu {
@@ -170,7 +170,7 @@ address {
 
 .div {
     color:#2e2f42 ;
-    letter-spacing: 0.02em
+    letter-spacing: 0.02em;
 }
 
 .div {
@@ -217,14 +217,14 @@ address {
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
 .studio-footer {
-    color: #F4F4FD;
+    color: #f4f4fd;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
