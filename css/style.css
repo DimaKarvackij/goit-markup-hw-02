@@ -11,7 +11,11 @@
     color: #404BBF;
 }
 
-body {}
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
 
 .logo {
     color: #4D5AE5;
