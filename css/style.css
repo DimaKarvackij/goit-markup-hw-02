@@ -18,7 +18,8 @@ body {
 }
 
 .logo {
-    color: #4D5AE5;
+    color:  #4d5ae5;
+    line-height: 1.17
 }
 
 .id {
@@ -33,7 +34,7 @@ body {
 }
 
 .menu {
-    color: #2E2F42;
+    color: #2e2f42;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 500;
@@ -73,9 +74,9 @@ address {
     letter-spacing:0.02em;
 }
 
-button {
+.button {
     cursor: pointer;
-    background-color: #404BBF;
+    background-color: #4D5AE5;
     color: #FFF;
 
 }
@@ -124,6 +125,15 @@ button {
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
+.main-picture{
+    background-color: #F4F4FD;
+}
+.our-home{
+    color:#2e2f42 ;
+}
+.picture{
+    background-color: #FFFFFF
+}
 
 .name {
     color: #2E2F42;
@@ -148,9 +158,12 @@ button {
     /* 150% */
     letter-spacing: 0.02em;
 }
-
+.{
+    color: ;
+    letter-spacing: 0.02em
+}
 .div {
-    color: #2E2F42;
+    color: #2e2f42;
     text-align: center;
     /* Header 2 */
     font-family: 'Roboto', sans-serif;
@@ -219,4 +232,13 @@ button {
     line-height: 1.5;
     /* 150% */
     letter-spacing: 0.02em;
+}
+.web-footer{
+    color: #4D5AE5;
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.16; /* 116.667% */
+letter-spacing: 0.03em;
+text-transform: uppercase;
 }
