@@ -259,4 +259,7 @@ address {
     /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
-}.
+}
+.headear{
+    background-color: #2e2f42 ;
+}
