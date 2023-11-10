@@ -1,12 +1,14 @@
 .logo {
-    color: #2E2F42;
+    color:  #4d5ae5;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
-    /* 116.667% */
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+}
+address{
+    font-style: normal;
 }
 
 .list {
@@ -28,6 +30,14 @@ button {
     color: #FFF;
 }
 
+.menu{
+    color: #2E2F42;
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5; /* 150% */
+letter-spacing: 0.02em;
+}
 .menu-conctacts-email a {
     color: #434455;
 }
@@ -40,14 +50,10 @@ button {
 
 .body{
     color: #434455;
-
-
-    /* Body */
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    /* 150% */
     letter-spacing: 0.02em;
     list-style-type: none;
     text-decoration: none;
@@ -59,70 +65,47 @@ button {
     background: #2E2F42;
     color: #FFF;
     text-align: center;
-    /* Header 1 */
     font-family: 'Roboto', sans-serif;
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
-    /* 107.143% */
     letter-spacing: 0.02em;
 }
 
 
 .header-3{
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: #2E2F42;
     text-align: center;
-
-    /* Header 3 */
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     line-height: 1.2;
-    /* 120% */
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
 }
 
 
 .header-2{
     color: #2E2F42;
     text-align: center;
-
-    /* Header 2 */
     font-family: 'Roboto', sans-serif;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
-    /* 111.111% */
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 .end-pages{
     background-color: #2E2F42; 
 }
-
 .studio{
-    color: #F4F4FD;
+    color: #2e2f42;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16; /* 116.667% */
+    line-height: 1.16; 
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .p-footer{
-    
 color:  #F4F4FD;
-
 }
