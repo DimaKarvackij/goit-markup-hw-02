@@ -62,12 +62,12 @@ address {
     letter-spacing: 0.02em;
 }
 
-.headear {
+.header {
     background-color: #2E2F42;
 }
-
- 
-
+.studio-header{
+   
+}
 
 .type {
     color: #FFF;
@@ -259,6 +259,4 @@ address {
     /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
-}.footer{
-    color:#2e2f42;
-}
+}.
