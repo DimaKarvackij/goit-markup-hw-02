@@ -98,7 +98,7 @@ letter-spacing: 0.02em;
     background-color: #2E2F42; 
 }
 .studio{
-    color: #2e2f42;
+    color:  #f4f4fd;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -108,4 +108,5 @@ letter-spacing: 0.02em;
 }
 .p-footer{
 color:  #F4F4FD;
+line-height: 0.02em;
 }
