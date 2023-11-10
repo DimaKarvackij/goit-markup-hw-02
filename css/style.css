@@ -18,7 +18,7 @@ body {
 }
 
 .logo {
-    color:  #4d5ae5;
+    color: #4d5ae5;
     line-height: 1.17
 }
 
@@ -48,9 +48,9 @@ address {
 }
 
 .contacts {
-    color:#434455;
+    color: #434455;
     /* Body */
-    font-family:'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
@@ -71,7 +71,7 @@ address {
     font-weight: 700;
     line-height: 1.07;
     /* 107.143% */
-    letter-spacing:0.02em;
+    letter-spacing: 0.02em;
 }
 
 .button {
@@ -103,7 +103,7 @@ address {
 }
 
 .composition {
-    color:  #434455;
+    color: #434455;
     /* Body */
     font-family: 'Roboto', sans-serif;
     font-size: 1.5;
@@ -125,13 +125,16 @@ address {
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-.main-picture{
+
+.main-picture {
     background-color: #F4F4FD;
 }
-.our-home{
-    color:#2e2f42 ;
+
+.our-home {
+    color: #2e2f42;
 }
-.picture{
+
+.picture {
     background-color: #FFFFFF
 }
 
@@ -158,10 +161,12 @@ address {
     /* 150% */
     letter-spacing: 0.02em;
 }
-.{
-    color: ;
+
+.div {
+    color:#2e2f42 ;
     letter-spacing: 0.02em
 }
+
 .div {
     color: #2e2f42;
     text-align: center;
@@ -233,12 +238,14 @@ address {
     /* 150% */
     letter-spacing: 0.02em;
 }
-.web-footer{
+
+.web-footer {
     color: #4D5AE5;
-font-family: Raleway;
-font-size: 18px;
-font-weight: 700;
-line-height: 1.16; /* 116.667% */
-letter-spacing: 0.03em;
-text-transform: uppercase;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    /* 116.667% */
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
