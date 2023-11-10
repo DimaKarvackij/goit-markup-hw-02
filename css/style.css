@@ -57,8 +57,6 @@ letter-spacing: 0.02em;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    list-style-type: none;
-    text-decoration: none;
 }
 
 
@@ -111,8 +109,6 @@ letter-spacing: 0.02em;
 .p-footer{
 color:  #F4F4FD;
 }
-.header-section-4{
-    font-size: 20px ;
-    line-height: 1.2 ;
-    letter-spacing: 0.02em;
+.section-4{
+    
 }
