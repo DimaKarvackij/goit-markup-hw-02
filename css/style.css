@@ -24,7 +24,7 @@ body {
 .idt{
     color: #2e2f42;
 }
-.id {
+.idrt {
     color: #4d5ae5;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
@@ -263,7 +263,7 @@ address {
 .headear{
     background-color: #2e2f42 ;
 }
-.logo-header{
+/*.logo-header{
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -271,4 +271,4 @@ address {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color:#4d5ae5;
-}
+}*/
