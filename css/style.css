@@ -21,7 +21,9 @@ body {
     color: #4d5ae5;
     line-height: 1.17
 }
-
+.idt{
+    color: #2e2f42;
+}
 .id {
     color: #4d5ae5;
     font-family: 'Raleway', sans-serif;
