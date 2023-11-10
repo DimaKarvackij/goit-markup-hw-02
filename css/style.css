@@ -24,7 +24,7 @@ body {
 .idt{
     color: #2e2f42;
 }
-.idrt {
+.id {
     color: #4d5ae5;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
@@ -65,9 +65,9 @@ address {
 .headear {
     background-color: #2E2F42;
 }
-.studio-header{
-    color:#2e2f42 
-}
+
+ 
+
 
 .type {
     color: #FFF;
@@ -218,7 +218,7 @@ address {
 }
 
 .web-footer {
-    color: #f4f4fd;
+    color: #4D5AE5;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -251,7 +251,7 @@ address {
 }
 
 .a-footer {
-    color: #f4f4fd;
+    color: #4D5AE5;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -259,4 +259,6 @@ address {
     /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
+}.footer{
+    color:#2e2f42;
 }
