@@ -32,7 +32,9 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-
+.menu-items{
+   background-color: #FFFFFF;
+}
 .menu {
     color: #2e2f42;
     font-family: 'Roboto', sans-serif;
@@ -79,6 +81,10 @@ address {
     background-color: #4D5AE5;
     color: #FFF;
 
+}
+.button:hover,
+.button:focus{
+    background-color: #404BBF
 }
 
 .button {
