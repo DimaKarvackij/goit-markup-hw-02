@@ -9,6 +9,7 @@
 }
 address{
     font-style: normal;
+    
 }
 
 .list {
@@ -21,7 +22,7 @@ address{
 
 .menu-link:hover,
 .menu-link:focus {
-    color: #404BBF;
+    color: #404bbf;
 }
 
 button {
